@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'WorkPC'
+  name: WorkPC
 
 variables:
   buildConfiguration: 'Release'
